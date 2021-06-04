@@ -1,0 +1,1 @@
+C:\Users\bogdandina\workspace\HelloWorldApplication\HelloWorldApplication\obj\x64\Debug\HelloWorldApplication.sfproj.CoreCompileInputs.cache

@@ -1,0 +1,1 @@
+C:\Users\bogdandina\workspace\StatelessHelloWorldService\StatelessHelloWorldService\obj\x64\Debug\StatelessHelloWorldService.sfproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "dlle3atQFl4ObDv82ZQx1YpJvZCjkbjN8cy/SuYTEKRAjDGcje2WFkuOSi38JZZ1WHrWXGz/bLhB3/p4kzcorg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bogdandina\\workspace\\HelloWorldApplication\\HelloWorldService\\HelloWorldService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric\\7.2.477\\microsoft.servicefabric.7.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data\\4.2.477\\microsoft.servicefabric.data.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.2.477\\microsoft.servicefabric.data.extensions.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.2.477\\microsoft.servicefabric.data.interfaces.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.2.477\\microsoft.servicefabric.diagnostics.internal.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.services\\4.2.477\\microsoft.servicefabric.services.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bogdandina\\workspace\\SimpleStoreApplication\\SimpleStoreApplication\\SimpleStoreWeb\\SimpleStoreWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bogdandina\\workspace\\SimpleStoreApplication\\SimpleStoreApplication\\SimpleStoreWeb\\SimpleStoreWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bogdandina\\workspace\\SimpleStoreApplication\\SimpleStoreApplication\\SimpleStoreWeb\\SimpleStoreWeb.csproj",
+        "projectName": "SimpleStoreWeb",
+        "projectPath": "C:\\Users\\bogdandina\\workspace\\SimpleStoreApplication\\SimpleStoreApplication\\SimpleStoreWeb\\SimpleStoreWeb.csproj",
+        "packagesPath": "C:\\Users\\bogdandina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bogdandina\\workspace\\SimpleStoreApplication\\SimpleStoreApplication\\SimpleStoreWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bogdandina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msblox.pkgs.visualstudio.com/DefaultCollection/_packaging/AzureGenevaMonitoring/nuget/v3/index.json": {},
+          "https://msblox.pkgs.visualstudio.com/_packaging/AzureGenevaMonitoring/nuget/v3/index.json": {},
+          "https://skype.pkgs.visualstudio.com/_packaging/csc/nuget/v3/index.json": {},
+          "https://skype.pkgs.visualstudio.com/_packaging/tps/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[4.2.477, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

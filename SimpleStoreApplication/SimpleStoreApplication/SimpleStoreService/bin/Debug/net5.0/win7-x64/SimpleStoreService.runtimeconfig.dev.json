@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bogdandina\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bogdandina\\.nuget\\packages"
+    ]
+  }
+}

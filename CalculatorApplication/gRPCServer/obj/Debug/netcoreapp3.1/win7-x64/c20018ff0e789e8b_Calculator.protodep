@@ -1,0 +1,2 @@
+Calculator\Schemas/Calculator.cs \
+Calculator\Schemas/CalculatorGrpc.cs: Schemas/Calculator.proto

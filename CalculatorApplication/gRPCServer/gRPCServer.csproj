@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<IsServiceFabricServiceProject>True</IsServiceFabricServiceProject>
+		<ServerGarbageCollection>True</ServerGarbageCollection>
+		<RuntimeIdentifier>win7-x64</RuntimeIdentifier>
+		<TargetLatestRuntimePatch>False</TargetLatestRuntimePatch>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="Schemas\Calculator.proto" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Google.Protobuf" Version="3.17.0" />
+		<PackageReference Include="Grpc" Version="2.37.1" />
+		<PackageReference Include="Grpc.Tools" Version="2.37.1">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.ServiceFabric.Services" Version="4.2.477" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Calculator\" />
+		<Folder Include="Calculator\Schemas\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Protobuf Include="Schemas\Calculator.proto" OutputDir="Calculator" />
+	</ItemGroup>
+
+</Project>

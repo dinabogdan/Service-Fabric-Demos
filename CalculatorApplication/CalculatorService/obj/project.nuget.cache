@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ox96qCkCaAk8eZSX5ZqsfKqGVbKLPWS+lGi1xh3y0jnrHDUGowePythtV8LmtEwVyxP41MYbpowTK0lSeKsp2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bogdandina\\workspace\\CalculatorApplication\\CalculatorService\\CalculatorService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric\\7.2.477\\microsoft.servicefabric.7.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data\\4.2.477\\microsoft.servicefabric.data.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.2.477\\microsoft.servicefabric.data.extensions.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.2.477\\microsoft.servicefabric.data.interfaces.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.2.477\\microsoft.servicefabric.diagnostics.internal.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\4.2.477\\microsoft.servicefabric.fabrictransport.internal.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.services\\4.2.477\\microsoft.servicefabric.services.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\4.2.477\\microsoft.servicefabric.services.remoting.4.2.477.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.0\\microsoft.netcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.0\\microsoft.aspnetcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

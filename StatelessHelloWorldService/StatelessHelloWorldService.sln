@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "StatelessHelloWorldService", "StatelessHelloWorldService\StatelessHelloWorldService.sfproj", "{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatelessWebAPI", "StatelessWebAPI\StatelessWebAPI.csproj", "{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Debug|x64.ActiveCfg = Debug|x64
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Debug|x64.Build.0 = Debug|x64
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Debug|x64.Deploy.0 = Debug|x64
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Release|Any CPU.ActiveCfg = Release|x64
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Release|x64.ActiveCfg = Release|x64
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Release|x64.Build.0 = Release|x64
+		{A11B82C7-2CD5-41B1-8504-F8EB605A7C17}.Release|x64.Deploy.0 = Release|x64
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Debug|x64.Build.0 = Debug|Any CPU
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3CD37E0-2DA4-4E2E-9222-92ED052358C3}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73720D6-0FCC-4FE5-8F02-A28C31A87CC5}
+	EndGlobalSection
+EndGlobal

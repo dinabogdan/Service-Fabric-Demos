@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcZksKHsFzSC7hiwnuEnmOPH+L/wfsVDEGdJ1voP5xJ6xb4Qbd33iKRRqgkIkcxRjFt6zM3TrUGM63xb6X7W6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bogdandina\\workspace\\CalculatorApplication\\CalculatorService.Interfaces\\CalculatorService.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric\\8.0.516\\microsoft.servicefabric.8.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data\\5.0.516\\microsoft.servicefabric.data.5.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.0.516\\microsoft.servicefabric.data.extensions.5.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.0.516\\microsoft.servicefabric.data.interfaces.5.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.0.516\\microsoft.servicefabric.diagnostics.internal.5.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\5.0.516\\microsoft.servicefabric.fabrictransport.internal.5.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.services\\5.0.516\\microsoft.servicefabric.services.5.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\5.0.516\\microsoft.servicefabric.services.remoting.5.0.516.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\bogdandina\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
